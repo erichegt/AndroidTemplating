@@ -1,0 +1,5 @@
+Example of templating using LayoutInflater.
+
+Replace the content of the file template.xml with the content of template_altered.xml.
+
+Now all the application layout have been changed ;)
